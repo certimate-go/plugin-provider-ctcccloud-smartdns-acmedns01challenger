@@ -1,0 +1,4 @@
+{
+  "plugin.ctcccloud-smartdns.name": "China Telecom StateCloud - Smart DNS",
+  "plugin.ctcccloud-smartdns.description": "ACME DNS-01 via China Telecom StateCloud - Smart DNS."
+}

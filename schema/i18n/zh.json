@@ -1,0 +1,4 @@
+{
+  "plugin.ctcccloud-smartdns.name": "天翼云 - 智能 DNS",
+  "plugin.ctcccloud-smartdns.description": "通过 天翼云 - 智能 DNS 完成 ACME DNS-01 验证。"
+}

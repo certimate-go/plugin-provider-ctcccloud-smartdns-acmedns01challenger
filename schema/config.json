@@ -1,0 +1,8 @@
+{
+  "schemaVersion": "form/v1",
+  "provider": "ctcccloud-smartdns",
+  "category": "apply",
+  "schema": {
+    "columns": []
+  }
+}
